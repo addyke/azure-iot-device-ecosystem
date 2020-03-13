@@ -1,12 +1,12 @@
 ---
-platform: {enter the OS name running on edge device}
-device: {enter your device name here}
-language: {enter the language used to you edge device}
+platform: Debian10
+device: Toybrick AI Board
+language: Python
 ---
 
 *We highly recommend keeping this document current, and Microsoft reserves a right to remove devices and documents from the Azure IoT Device Catalog if document contains broken URL links, incorrect information etc.*
 
-Run a simple {enter the language used to you edge device} sample on {enter your device name here} device running {enter the OS name running on edge device. Specify distribution or Windows SKU information. Ex: Ubuntu Sever 16.04, Windows 10 IoT Core. Only [Tier 1 OS](https://docs.microsoft.com/en-us/azure/iot-edge/support) is allowed}
+Run a simple python sample on Toybrick AI Board device running Debian10.
 ===
 ---
 
