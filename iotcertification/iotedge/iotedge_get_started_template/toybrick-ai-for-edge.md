@@ -73,6 +73,10 @@ Open the command prompt on your IoT Edge device , confirm that the Azure IoT edg
     systemctl status iotedge
 
  ![](./images/toybrick-ai-iotedge-status.png)
+ 
+    sudo iotedge check
+
+ ![](./images/toybrick-ai-iotedge-check.png)
 
 Open the command prompt on your IoT Edge device, confirm that the module deployed from the cloud is running on your IoT Edge device
 
