@@ -4,8 +4,6 @@ device: Toybrick AI Board
 language: Python
 ---
 
-*We highly recommend keeping this document current, and Microsoft reserves a right to remove devices and documents from the Azure IoT Device Catalog if document contains broken URL links, incorrect information etc.*
-
 Run a simple python sample on Toybrick AI Board device running Debian10.
 ===
 ---
@@ -18,13 +16,6 @@ Run a simple python sample on Toybrick AI Board device running Debian10.
 -   [Step 3: Manual Test for Azure IoT Edge on device](#Manual)
 -   [Step 4: Next Steps](#NextSteps)
 -   [Step 5: Troubleshooting](#Step-5-Troubleshooting)
-
-# Instructions for using this template
-
--   Replace the text in {placeholders} with correct values.
--   Delete the lines {{enclosed}} after following the instructions enclosed between them.
--   It is advisable to use external links, wherever possible.
--   Remove this section from final document.
 
 <a name="Introduction"></a>
 # Introduction
@@ -49,7 +40,6 @@ You should have the following items ready before beginning the process:
 -   [Add the Edge Device](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux)
 -   [Add the Edge Modules](https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux#deploy-a-module)
 -   Toybrick AI Board device.
--   {{Please specify if any other software(s) or hardware(s) are required.}}
 
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
